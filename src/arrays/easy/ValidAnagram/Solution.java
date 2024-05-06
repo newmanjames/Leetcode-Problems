@@ -1,4 +1,4 @@
-package easy.ValidAnagram;
+package arrays.easy.ValidAnagram;
 
 
 import java.util.Map;
